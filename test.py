@@ -5,7 +5,7 @@ import numpy as np
 # Question 1
 a1 = np.arange(1, 10).reshape(3, 3)
 st.write("Question 1:")
-st.write("Matrix:\n", a1)
+a1
 st.write("Shape:", a1.shape)
 st.write("Size:", a1.size)
 st.write("Data type:", a1.dtype)
