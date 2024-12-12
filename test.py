@@ -5,10 +5,10 @@ import numpy as np
 st.title("NumPy Exercises")
 st.markdown("*Group Members*")
 st.markdown("*1. Emmanuel Mgonda - EASTc/BDTS/23/00244* ")
-st.markdown("*2. Sarafina Nchemwa - EASTC/BDTS/23/* ")
-st.markdown("*3. KHALFANI LUSIGI - EASTC/BDTS/23/* ")
-st.markdown("*4. KELVIN LUSUKA - EASTC/BDTS/23/* ")
-st.markdown("*5. FAUDHIA MODESTUS  - EASTC/BDTS/23/* ")
+st.markdown("**2. Sarafina Nchemwa - EASTC/BDTS/23/** ")
+st.markdown("**3. KHALFANI LUSIGI - EASTC/BDTS/23/** ")
+st.markdown("**4. KELVIN LUSUKA - EASTC/BDTS/23/** ")
+st.markdown("**5. FAUDHIA MODESTUS  - EASTC/BDTS/23/** ")
 # st.markdown("*1. Emmanuel Mgonda - ESTS/BDTS/23/00244* ")
 
 
