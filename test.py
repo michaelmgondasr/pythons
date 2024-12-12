@@ -3,6 +3,16 @@ import pandas as pd
 import numpy as np
 
 st.title("NumPy Exercises")
+st.markdown("*Group Members*")
+st.markdown("*1. Emmanuel Mgonda - EASTc/BDTS/23/00244* ")
+st.markdown("*2. Sarafina Nchemwa - EASTC/BDTS/23/* ")
+st.markdown("*3. KHALFANI LUSIGI - EASTC/BDTS/23/* ")
+st.markdown("*4. KELVIN LUSUKA - EASTC/BDTS/23/* ")
+st.markdown("*5. FAUDHIA MODESTUS  - EASTC/BDTS/23/* ")
+# st.markdown("*1. Emmanuel Mgonda - ESTS/BDTS/23/00244* ")
+
+
+
 st.markdown("---")
 
 # Question 1
@@ -29,15 +39,16 @@ st.markdown(f"**Code:** `a2[0, :]`")
 st.markdown(f"**Last column:** {a2[:, -1].tolist()} ")
 st.markdown(f"**Code:** `a2[:, -1]`")
 st.markdown("**2x2 sub-matrix from the center:**")
-st.write(a2[2:4, 2:4])
 st.markdown(f"**Code:** `a2[2:4, 2:4]`")
+st.write(a2[2:4, 2:4])
+
 st.markdown("---")
 
 # Question 3
 st.header("Question 3")
 a3 = np.array([1, 2, 3])
 b3 = np.array([4, 5, 6])
-st.markdown(f"**Element-wise addition:** {a3 + b3} \n Code: `a3 + b3`")
+st.markdown(f"**Element-wise addition:** {a3 + b3} Code: `a3 + b3`")
 st.markdown(f"**Dot product:** {np.dot(a3, b3)} (Code: `np.dot(a3, b3)`)")
 st.markdown(f"**Element-wise multiplication:** {a3 * b3} (Code: `a3 * b3`)")
 st.markdown("---")
