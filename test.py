@@ -4,7 +4,7 @@ import numpy as np
 
 st.title("NumPy Exercises")
 st.markdown(f"*Group Members*")
-st.markdown(f"*1. Emmanuel Mgonda - EASTc/BDTS/23/00244* ")
+st.markdown(f"**1. Emmanuel Mgonda - EASTc/BDTS/23/00244** ")
 st.markdown(f"**2. Sarafina Nchemwa - EASTC/BDTS/23/** ")
 st.markdown(f"**3. KHALFANI LUSIGI - EASTC/BDTS/23/** ")
 st.markdown(f"**4. KELVIN LUSUKA - EASTC/BDTS/23/** ")
